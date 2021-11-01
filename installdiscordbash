@@ -9,5 +9,3 @@ wget https://gist.githubusercontent.com/AdrianKoshka/a12ca0bfe2f334a9f208aff72f8
 mkdir -p ~/.local/share/applications/
 mv ~/discord.desktop ~/.local/share/applications/
 sudo ln -s ~/.local/share/applications/discord.desktop /usr/share/applications/discord.desktop
-
-
